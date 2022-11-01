@@ -1,4 +1,4 @@
-### Vida longa e próspera 🖖🏽
+### Vida longa e próspera 🖖🏽<img align="center" alt="Nerd-NodeJs" height="30" width="40" src="http://dwglogo.com/wp-content/uploads/2016/05/Nippon-Telegraph-and-Telephone.png">
 
 <lu>
   <li>📫 Contate-me pelo email: sthivendev@gmail.com</li>
