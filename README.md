@@ -6,11 +6,11 @@
   <li>⚡ Fun fact: Físicos não são bons em nomear as coisas. Um exemplo disso são que as estrelas de nêutrons não são estrelas</li>
 </lu>
 <br>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/nerdstarcode">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nerdstarcode&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdstarcode&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Nerd-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Nerd-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
